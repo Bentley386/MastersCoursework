@@ -1,0 +1,1 @@
+Homework for "Additional chapters in mathematics for physicists" course (group theory, representation theory, analysis on manifolds)

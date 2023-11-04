@@ -1,0 +1,1 @@
+Homework and Projects for non-numerical courses taken at Faculty of Mathematics and Physics, Mathematical Physics

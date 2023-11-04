@@ -1,0 +1,1 @@
+Homework for the "Solid State Theory" course. Topic is using group theory to diagonalize the Hamiltonian. 

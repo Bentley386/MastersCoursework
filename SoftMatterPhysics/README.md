@@ -1,0 +1,1 @@
+Project for the "Soft Matter Physics" course. Topic - "Derivation of the Ornstein-Zernike equation".

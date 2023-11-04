@@ -1,0 +1,1 @@
+Project for the "Symmetries in Physics" course. Topic - "Coleman-Mandula theorem".

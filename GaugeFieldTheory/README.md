@@ -1,0 +1,1 @@
+A seminar for the Gauge Field Theory course. Topic: "Abelian triangle anomaly"
